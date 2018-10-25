@@ -3,21 +3,23 @@ $(function () {
 
     const visited_countries = [
         // Hongkong
-        'ae',  // UAE
-        'au',  // Australia
+        'pl',  // Poland
+        'ua',  // Ukraine
         'ca',  // Canada
-        'ch',  // Switzerland
+        'ru',  // Russia
         'de',  // Germany
         'fr',  // France
         'gb',  // Britain
-        'in',  // India
+        'se' ,  //Sweden
         'is',  // Iceland
-        'kr',  // Korea
+        'cz', //Czech
+        'ee', //estonia
+        'by', //belarus
+        'hu', //hungary
+        'es ', //Spain
+        'dz ', //Algeria
+        'ma', //Morocco
         'jp',  // Japan
-        'my',  // Malaysia
-        'np',  // Nepal
-        'sg',  // Singapore
-        'th',  // Thailand
         'us'  // US
     ]
 
