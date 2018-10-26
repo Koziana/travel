@@ -49,21 +49,33 @@ $(function () {
     const visited_states_in_us = [
         // 16/50
         'us-al',  // Alabama
-        'us-az',  // Arizona
-        'us-ca',  // California
         'us-fl',  // Florida
         'us-ga',  // Georgia
         'us-ky',  // Kentucky
         'us-ma',  // Massachusetts
-        'us-nj',  // New Jersey
-        'us-nv',  // Nevada
+        'us-nj',  // New Jersey 
         'us-ny',  // New York
         'us-nc',  // North Carolina
-        'us-or',  // Oregon
         'us-sc',  // South Carolina
         'us-tn',  // Tennessee
         'us-wa',  // Washington
-        'us-wi'  // Wisconsin
+        'us-wi',  // Wisconsin
+        'us-mi', // Michigan
+        'us-in', //Indiana
+        'us-oh', //Ohio
+        'us-va', //Virginia
+        'us-wv', // West Virginia
+        'us-sd', //South Dakota
+        'us-mn', //Minnesota
+        'us-mt', //Montana
+        'us-il', //Illinois
+        'us-pa', //Pennyslavania
+        'us-md', //Maryland
+        'us-de', //Delaware
+        'us-ct', //Connecticut
+        'us-rd', //rhode island\
+        'us-vt' //Vermont
+        
     ];
 
     function getDrilldown(data, visited) {
