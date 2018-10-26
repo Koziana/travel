@@ -58,7 +58,6 @@ $(function () {
         'us-nc',  // North Carolina
         'us-sc',  // South Carolina
         'us-tn',  // Tennessee
-        'us-wa',  // Washington
         'us-wi',  // Wisconsin
         'us-mi', // Michigan
         'us-in', //Indiana
@@ -74,7 +73,9 @@ $(function () {
         'us-de', //Delaware
         'us-ct', //Connecticut
         'us-rd', //rhode island\
-        'us-vt' //Vermont
+        'us-vt', //Vermont
+        'us-nd', //North Dakota
+        'us-wy' //Wymoning
         
     ];
 
